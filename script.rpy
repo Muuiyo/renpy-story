@@ -62,7 +62,7 @@ label start:
 
     X "You don't wanna go outside, but you're out of food."    
    
-   MC "Hungree..."
+   MC "Hungry..."
     
     X "You got up and made the decision."
 
